@@ -33,7 +33,7 @@ This Spring Boot project is a comprehensive bank application designed to showcas
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bank-application.git
+   git clone https://github.com/ManishKumarChoudhary2003/Bank-Application.git
    cd bank-application
    
 2. **Set up Keycloak**:
